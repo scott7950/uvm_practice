@@ -1,0 +1,5 @@
+factory.print(all_types);
+    0: prints overrides registered
+    1: prints objects registered
+    
+uvm_top.print_topology();
